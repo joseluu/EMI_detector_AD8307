@@ -1,0 +1,9 @@
+.model KSC1845 NPN (
++IS = 52.5f NF = 1.0 BF = 408 VAF = 150
++ISE = 4f NE = 1.5 IKF = 0.8
++RC = 0.28 RE = 0.15 RB = 40 RBM = 4.0 IRB = 250u
++ISC = 1.9p NR = 1.0 BR = 15 VAR = 20 NC = 1.3
++CJC = 4.8p VJC = 0.6 MJC = 0.29 TF = 149p VTF = 4.0
++CJE = 26.5p VJE = 0.73 MJE = 0.162
++RCO = 105 VO = 2.2 GAMMA = 1.6u QCO = 2p QUASIMOD = 1
++EG = 1.181 TR = 10n XTB = 1.728 )
