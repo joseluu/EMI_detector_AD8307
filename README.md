@@ -6,4 +6,4 @@ Schematic is in LTSpice (and pdf), includes a home made spice model of the AD830
 
 For this photo a (bad) led light was more than one meter away.
 
-<img src="[https://github.com/joseluu/EMI_detector_AD8307/blob/d1af57865414b5b8192824e96fb198808b602538/Photos/IMG_20240420_001419.jpg]" width="300">
+<img src="https://github.com/joseluu/EMI_detector_AD8307/blob/d1af57865414b5b8192824e96fb198808b602538/Photos/IMG_20240420_001419.jpg" width="300">
